@@ -1,7 +1,149 @@
 {
   "schema": "ccb-som-v3",
   "version": 3,
-  "publishedAt": "2026-11-20T13:00:00.000Z",
-  "brothers": [],
-  "events": []
+  "publishedAt": "2026-11-20T14:34:58.279Z",
+  "brothers": [
+    {
+      "id": "ef847f6c-9fd5-4d9c-a443-696769d4603a",
+      "name": "DIEGO"
+    },
+    {
+      "id": "9c145c92-4129-4787-bce0-bb89a20ccffe",
+      "name": "GERALDO"
+    },
+    {
+      "id": "19109e6d-10f3-4330-b18e-a504860219f7",
+      "name": "ROBSON"
+    },
+    {
+      "id": "9dc058fd-12fe-42e5-8291-8d60a3d60fc5",
+      "name": "ROGERIO"
+    },
+    {
+      "id": "c6d6ca2d-03e7-499e-9aad-b7865511bc5a",
+      "name": "VINNY"
+    }
+  ],
+  "events": [
+    {
+      "id": "00c68aca-e9f8-4aca-a5e0-cb540264f894",
+      "date": "2026-11-21",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "9dc058fd-12fe-42e5-8291-8d60a3d60fc5",
+      "backup": "19109e6d-10f3-4330-b18e-a504860219f7",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "13d20556-4aba-485f-b9a6-653df5943b04",
+      "date": "2026-11-22",
+      "time": "19:30",
+      "type": "Reunião de jovens e menores",
+      "brother": "19109e6d-10f3-4330-b18e-a504860219f7",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "63319b58-168e-44c6-9987-6b7c35b3516b",
+      "date": "2026-11-24",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "c6d6ca2d-03e7-499e-9aad-b7865511bc5a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "3d13c151-d1e6-49b0-b610-886f4272f22a",
+      "date": "2026-11-26",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "ef847f6c-9fd5-4d9c-a443-696769d4603a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "679f9075-4523-4d6f-9307-1cfec0240d82",
+      "date": "2026-11-28",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "ef847f6c-9fd5-4d9c-a443-696769d4603a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "ad14f1c2-23f6-4145-a677-7a867c538563",
+      "date": "2026-12-01",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "c6d6ca2d-03e7-499e-9aad-b7865511bc5a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "7023579f-66b7-4788-a312-0891467f0b24",
+      "date": "2026-12-03",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "ef847f6c-9fd5-4d9c-a443-696769d4603a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "87ca4df6-c4b8-4f57-9aca-6250a7b92a33",
+      "date": "2026-12-05",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "19109e6d-10f3-4330-b18e-a504860219f7",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "fe08b3c7-8637-4303-9fb4-8d769cffe1a4",
+      "date": "2026-12-06",
+      "time": "19:30",
+      "type": "Reunião de jovens e menores",
+      "brother": "ef847f6c-9fd5-4d9c-a443-696769d4603a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "63e4be47-98ce-4e33-971a-5bc9790d1300",
+      "date": "2026-12-08",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "c6d6ca2d-03e7-499e-9aad-b7865511bc5a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "40d7a4bc-ac17-457b-bedb-412706d043a6",
+      "date": "2026-12-10",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "ef847f6c-9fd5-4d9c-a443-696769d4603a",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    },
+    {
+      "id": "13c06cd0-dc1f-4988-9d31-341cf0e2596e",
+      "date": "2026-12-12",
+      "time": "19:30",
+      "type": "Culto",
+      "brother": "19109e6d-10f3-4330-b18e-a504860219f7",
+      "backup": "",
+      "status": "confirmado",
+      "notes": ""
+    }
+  ]
 }
