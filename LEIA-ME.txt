@@ -1,0 +1,5 @@
+ESCALA DO SOM — CCB OSASCO CENTRO — VERSÃO 3.1
+
+Abra o arquivo GUIA_PUBLICACAO.md para as instruções de publicação e atualização.
+O aplicativo funciona sem banco de dados, lendo escala.json.
+Para atualização remota por botão, publique os arquivos em HTTPS.
